@@ -45,7 +45,7 @@ The report includes a 0–100 **environment score**, a color level, a one-senten
 Clone the complete repository, then ask any Agent Skills-compatible assistant to read `SKILL.md`:
 
 ```bash
-git clone https://github.com/fenming-ai/claude-check-skill.git
+git clone https://github.com/relunctance/claude-check-skill.git
 cd claude-check-skill
 python3 scripts/check.py
 ```
@@ -53,7 +53,7 @@ python3 scripts/check.py
 For runtimes that support the Skills CLI:
 
 ```bash
-npx skills add fenming-ai/claude-check-skill
+npx skills add relunctance/claude-check-skill
 ```
 
 Example prompt:

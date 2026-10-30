@@ -45,7 +45,7 @@ Claude 突然不能用、账号或组织被停用、身份验证状态不清楚�
 下载完整仓库，再让兼容 Agent Skills 的 AI 助手读取 `SKILL.md`：
 
 ```bash
-git clone https://github.com/fenming-ai/claude-check-skill.git
+git clone https://github.com/relunctance/claude-check-skill.git
 cd claude-check-skill
 python3 scripts/check.py
 ```
@@ -53,7 +53,7 @@ python3 scripts/check.py
 宿主支持 Skills CLI 时也可以安装：
 
 ```bash
-npx skills add fenming-ai/claude-check-skill
+npx skills add relunctance/claude-check-skill
 ```
 
 示例：
