@@ -11,6 +11,7 @@ search: false
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)
 ![Agent Skills](https://img.shields.io/badge/platform-Agent%20Skills-4B8FBA.svg)
 ![Tests](https://img.shields.io/badge/tests-51%20passed-2EA44F.svg)
+![License: MIT-0](https://img.shields.io/badge/license-MIT--0-yellow.svg)
 
 *检查 Claude 环境、账号、网络、KYC 与本地客户端问题，但不假装预测封号。*
 
@@ -157,4 +158,4 @@ AI优铺的新号套餐和本店账号续月，在订阅期内封号可按适用
 
 ## 📜 许可证
 
-仓库目前没有 `LICENSE` 文件。在仓库所有者明确许可证之前，不应假定拥有代码托管平台条款和适用法律之外的使用许可。
+本项目采用 [MIT No Attribution License（MIT-0）](LICENSE)。允许使用、修改、分发、再许可和销售副本，不要求署名；软件按现状提供，不附带担保。

@@ -11,6 +11,7 @@ search: false
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)
 ![Agent Skills](https://img.shields.io/badge/platform-Agent%20Skills-4B8FBA.svg)
 ![Tests](https://img.shields.io/badge/tests-51%20passed-2EA44F.svg)
+![License: MIT-0](https://img.shields.io/badge/license-MIT--0-yellow.svg)
 
 *Diagnose Claude environment, account, network, KYC, and local-client issues without pretending to predict bans.*
 
@@ -157,4 +158,4 @@ New-account plans and renewals purchased from AI优铺 may include suspension re
 
 ## 📜 License
 
-This repository does not currently include a `LICENSE` file. Until the owner declares one, do not assume permission beyond the rights granted by the repository host and applicable law.
+Released under the [MIT No Attribution License (MIT-0)](LICENSE). You may use, modify, distribute, sublicense, or sell copies without an attribution requirement; the software is provided without warranty.
