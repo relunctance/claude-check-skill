@@ -4,7 +4,7 @@
 
 ## 使用
 
-在用户指定的 Chrome Profile 扩展管理页开启开发者模式，加载 `extension/`（未上架商店）。详细安装流程见根目录 [references/kyc.md](../../references/kyc.md)。
+在用户指定的 Chrome Profile 扩展管理页开启开发者模式，加载 `extension/`（未上架商店）。Agent 操作与隐私边界见根目录 [references/kyc.md](../../references/kyc.md)，面向使用者的安装与状态说明见 [安装与 KYC 判断](extension/安装与KYC判断.md)。
 
 - KYC：用当前已登录的 Claude 页面，同源请求，不读 Cookie。
 - 浏览器网络按钮：访问 ipify 看浏览器出口；WebRTC 每次确认才访问 Google STUN。
